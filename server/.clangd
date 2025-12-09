@@ -1,0 +1,6 @@
+CompileFlags:
+  Add:
+    - "--target=x86_64-linux-android33"
+    - "--sysroot=/home/maars/Android/Sdk/ndk/29.0.14206865/toolchains/llvm/prebuilt/linux-x86_64/sysroot"
+    - "-I/home/maars/Android/Sdk/ndk/29.0.14206865/sysroot/usr/include"
+    - "-I/home/maars/Android/Sdk/ndk/29.0.14206865/sysroot/usr/include/x86_64-linux-android"
